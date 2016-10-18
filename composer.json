@@ -1,0 +1,12 @@
+{
+    "name": "acacha/roman-numbers",
+    "require": {
+        "phpspec/phpspec": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Sergi Tur Badenas",
+            "email": "sergiturbadenas@gmail.com"
+        }
+    ]
+}
