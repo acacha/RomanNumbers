@@ -8,5 +8,10 @@
             "name": "Sergi Tur Badenas",
             "email": "sergiturbadenas@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
 }
